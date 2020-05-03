@@ -10,3 +10,5 @@ The bookmarklet javascript snippet below loads the AdInspector.js script from yo
 BOOKMARKLET URL:
 
 javascript:(()=>{if(typeof googletag!=='undefined'){const d=document,s=document.createElement('script'); s.src='https://[YOUR.DOMAIN.COM]/AdInspector.js';d.body.appendChild(s);}else{alert('DoubleClick GPT (googletag) not found on this site!');}})();
+
+![screenshot](https://user-images.githubusercontent.com/22104323/80921938-a47be980-8d47-11ea-88ae-0791c2e32816.png)
