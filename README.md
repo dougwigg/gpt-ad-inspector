@@ -3,9 +3,9 @@ This is a vanilla-js script for viewing ad targeting and rendering details of Do
 
 The standard/best way to use this script is via a bookmark(let) ---a bookmark with Javascript as the url.
 
-Browsers don't allow adding local scripts to web pages so'll you'll need to host the script somewhere (on your website).
+Browsers don't allow adding local scripts to web pages so you'll need to host the script somewhere (e.g. on your website).
 
-The bookmarklet javascript snippet loads the AdInspector.js script from the website (update YOUR.DOMAIN.COM) where you've hosted the script:
+The bookmarklet javascript snippet below loads the AdInspector.js script from your website (update YOUR.DOMAIN.COM):
 
 BOOKMARKLET URL:
 
